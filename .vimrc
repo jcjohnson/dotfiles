@@ -20,3 +20,5 @@ au FileType python set shiftwidth=2 tabstop=2 softtabstop=2
 if has("gui_running")
   colorscheme jellybeans
 endif
+
+imap jk <Esc>
