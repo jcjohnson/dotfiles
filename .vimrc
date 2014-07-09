@@ -16,4 +16,4 @@ set softtabstop=2
 set lines=50 columns=85
 
 au FileType python set shiftwidth=2
-colo jellybeans
+colorscheme jellybeans

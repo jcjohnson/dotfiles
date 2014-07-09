@@ -7,3 +7,6 @@
 [submodule ".vim/bundle/jellybeans.vim"]
 	path = .vim/bundle/jellybeans.vim
 	url = https://github.com/nanotech/jellybeans.vim.git
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
