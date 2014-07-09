@@ -16,4 +16,7 @@ set softtabstop=2
 set lines=50 columns=85
 
 au FileType python set shiftwidth=2 tabstop=2 softtabstop=2
-colorscheme jellybeans
+
+if has("gui_running")
+  colorscheme jellybeans
+endif
