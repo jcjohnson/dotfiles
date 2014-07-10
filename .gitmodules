@@ -13,3 +13,6 @@
 [submodule ".vim/bundle/pig.vim"]
 	path = .vim/bundle/pig.vim
 	url = https://github.com/motus/pig.vim.git
+[submodule ".vim/bundle/vim-textobj-underscore"]
+	path = .vim/bundle/vim-textobj-underscore
+	url = https://github.com/lucapette/vim-textobj-underscore.git
